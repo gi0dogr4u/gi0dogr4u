@@ -42,7 +42,7 @@ Tenho maior domínio com a stack Python (com Django) e experiência em diversos 
   <img align="center" alt="NodeJS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Git Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Github Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img align="right" alt="Gio Gif" width="120" src="https://cdn.discordapp.com/attachments/1072359426457079920/1072366023287771186/gio_avatar.gif"
+  <img style="padding-top:45px" align="right" alt="Gio Gif" width="130" src="https://cdn.discordapp.com/attachments/1072359426457079920/1072366023287771186/gio_avatar.gif"
 </div>
 
 ***
