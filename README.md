@@ -10,7 +10,7 @@ Sou a Giovanna, tenho 18 anos e atuo há 2 anos na área de Tecnologia com foco 
 
 Tenho maior domínio com a stack Python (com Django) e experiência em diversos projetos profissionais, os quais mais recentes usam tratamento para KML's e shapefiles com uso de Postgis. Já trabalhei também com migração de monolito para microsserviços containerizados e gerenciados por Kubernetes em ambientes da Oracle e AWS. Tenho xp com servidores de mensageria (RabbitMQ), banco de dados objeto-relacional (PostgreSQL) e chave-valor (Redis), bem como consumo constante de diferentes API's e implemetações com scrapper. Recentemente iniciei estudos treinando modelos com Deep Learning e estou aplicando na área em projetos profissionais que envolvem principalmente Compliance Socioambiental. 
 
-- Para mais informações sobre minha atuação profissional, acesse meu perfil no Linkedin na aba **Contacts**
+- Para mais informações sobre minha atuação profissional, acesse meu perfil no Linkedin na aba **Contact**
 
 
 ##
