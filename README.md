@@ -8,7 +8,17 @@
 
 Sou a Giovanna, tenho 18 anos e atuo há 2 anos na área de Tecnologia com foco no backend.
 
-Tenho maior domínio com a stack Python (com Django) e experiência em diversos projetos profissionais, os quais mais recentes usam tratamento para KML's e shapefiles com uso de Postgis. Já trabalhei também com migração de monolito para microsserviços containerizados e gerenciados por Kubernetes em ambientes da Oracle e AWS. Tenho xp com servidores de mensageria (RabbitMQ), banco de dados objeto-relacional (PostgreSQL) e chave-valor (Redis), bem como consumo constante de diferentes API's e implemetações com scrapper. Recentemente iniciei estudos treinando modelos com Deep Learning e estou aplicando na área em projetos profissionais que envolvem principalmente Compliance Socioambiental. 
+Sou a Giovanna, tenho 18 anos e atuo há 2 anos na área de Tecnologia com foco no backend e também sou professora de programação
+
+Tenho maior domínio com a stack Python (com Django) e experiência em diversos projetos profissionais, os quais mais recentes usam tratamento para KML's e shapefiles com uso de Postgis. Já trabalhei também com migração de monolito para microsserviços containerizados e gerenciados por Kubernetes em ambientes da Oracle e AWS. Tenho xp com servidores de mensageria (RabbitMQ), banco de dados objeto-relacional (PostgreSQL) e chave-valor (Redis), bem como consumo constante de diferentes API's e implemetações com scrapper e sistemas de filas utilizando Celery. Recentemente iniciei estudos treinando modelos com Deep Learning e estou aplicando na área em projetos profissionais que envolvem principalmente Compliance Socioambiental, entre outras skills.
+
+Minha última experiência foi no lançamento de um MVP. Atuei na estruturação do projeto e em decisões técnicas importantes, visando padrões de design que se encaixavam com o contexto. Utilizei Angular como framework no Frontend com entregas que vão desde listagem simples até estruturação de um simulador para esteira de crédito comercial. Com isso, absorvi muito sobre regras de negócio (tanto em relação ao fluxo de esteiras de crédito quanto termos técnicos do Agronegócio), gerando sugestões técnicas que agregam muito mais valor ao cliente final.
+
+Para finalizar essa parte, também sou fundadora do projeto TechSeed: Semendo Conhecimento na Área de Tecnologia, que visa ensinar, de maneira totalmente gratuita, programação e o fluxo de trabalho para pessoas que estão passando por transição de carreira. Hoje conto com aproximadamente 15 alunos, com idades entre 14 e 50 anos das mais diversas áreas do mercado de trabalho.
+
+Tenho experiências sólidas com metodologias ágeis, em especial o Kanban e além das hard skills citadas acima, tenho afinidade com comunicação clara e liderança, sempre em busca de conhecimento nas formas disponíveis ao meu alcance. Minhas entregas visam qualidade e minha maior virtude é o Comprometimento. 
+
+Busco oportunidades que me permitam lidar com novos desafios e crescer profissionalmente por meio da Tecnologia
 
 - Para mais informações sobre minha atuação profissional, acesse meu perfil no Linkedin na aba **Contact**
 
