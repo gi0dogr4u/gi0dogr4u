@@ -6,19 +6,32 @@
  
 - Esse pedacinho está em português mas é temporário :)
 
-Sou a Giovanna, tenho 18 anos e atuo há 2 anos na área de Tecnologia com foco no backend.
+Aopa, chega mais! Sou a Giovanna, fullstack developer com foco em Backend há pouco mais de 2 anos e entusiasta na área de tecnologia, participante ativa da comunidade e eventos que me tragam novos desafios! Nas horas vagas? Professora de programação, leitora e gamer :) 
 
-Sou a Giovanna, tenho 18 anos e atuo há 2 anos na área de Tecnologia com foco no backend e também sou professora de programação
+Tá mas e aí? Quais as hard skills?
+✔️ Forte domínio com a stack de Python para web, usando frameworks como Django em diversos projetos profissionais. Quer saber um pouco mais sobre eles? Corre na descrição do meu último cargo
+✔️ Experiências sólidas com o uso de Docker em ambientes containerizados e gerenciados por Kubernetes (nesse eu me garanto, viu? Em busca da certificação K8S )
+✔️ Familiaridade com ambientes tanto da Oracle quanto AWS, tendo atuado em ambos no último ano.
+✔️ Diversas implementações realizadas com consumo de API's e scrappers, bem como conhecimento com sistemas de filas usando Celery e servidores de mensageria como RabbitMQ.
+✔️ Sem falar é claro na experiência com banco de dados, tanto objeto-relacional (PostgreSQL) quanto chave-valor (Redis).
+✔️ Recentemente iniciei estudos treinando modelos com Deep Learning e aplicando em projetos pessoais e tenho grande afinidade com a área de Ciência de Dados utilizando Python
 
-Tenho maior domínio com a stack Python (com Django) e experiência em diversos projetos profissionais, os quais mais recentes usam tratamento para KML's e shapefiles com uso de Postgis. Já trabalhei também com migração de monolito para microsserviços containerizados e gerenciados por Kubernetes em ambientes da Oracle e AWS. Tenho xp com servidores de mensageria (RabbitMQ), banco de dados objeto-relacional (PostgreSQL) e chave-valor (Redis), bem como consumo constante de diferentes API's e implemetações com scrapper e sistemas de filas utilizando Celery. Recentemente iniciei estudos treinando modelos com Deep Learning e estou aplicando na área em projetos profissionais que envolvem principalmente Compliance Socioambiental e Sensoriamento Remoto, entre outras skills.
+Alémm disso...
+🟢 Tenho experiências sólidas em diversos tipos de sistemas com diferentes paradigmas, indo desde um monolito até o lançamento de um MVP
+🟢 Atuei em estruturações de projeto e importantes decisões técnicas, visando impacto e valor agregado
+🟢 Padrões de design que se encaixam em cada contexto
+🟢 Grande familiaridade e facilidade com metodologias ágeis, em especial o Kanban
+🟢 Acompanhamento e auxílio com devs Juniors para troca de conhecimento, principalmente sobre os sistemas e boas práticas
 
-Minha última experiência foi no lançamento de um MVP. Atuei na estruturação do projeto e em decisões técnicas importantes, visando padrões de design que se encaixavam com o contexto. Utilizei Angular como framework no Frontend com entregas que vão desde listagem simples até estruturação de um simulador para esteira de crédito comercial. Com isso, absorvi muito sobre regras de negócio (tanto em relação ao fluxo de esteiras de crédito quanto termos técnicos do Agronegócio), gerando sugestões técnicas que agregam muito mais valor ao cliente final.
+Como não só de algodão doce são feitas as nuvens, eis algumas das Soft Skills:
+🔵 Afinidade e maturidade com comunicação clara e assertiva 
+🔵 Sempre em busca de conhecimento nas formas disponíveis ao meu alcance
+🔵 Valorizo uma boa e velha troca de Feedbacks visando melhoria contínua não só minha mas de toda a equipe
+🔵 Minhas entregas se baseiam em qualidade e tenho como grande virtude o Comprometimento
+🔵 Traços de liderança e grande paixão por trabalhar com pessoas e levar valor ao cliente
+🔵 Super adaptável com diferentes processos, sistemas e pessoas, sem perder a análise crítica dos cenários
 
-Para finalizar essa parte, também sou fundadora do projeto TechSeed: Semendo Conhecimento na Área de Tecnologia, que visa ensinar, de maneira totalmente gratuita, programação e o fluxo de trabalho para pessoas que estão passando por transição de carreira. Hoje conto com aproximadamente 15 alunos, com idades entre 14 e 50 anos das mais diversas áreas do mercado de trabalho.
-
-Tenho experiências sólidas com metodologias ágeis, em especial o Kanban e além das hard skills citadas acima, tenho afinidade com comunicação clara e liderança, sempre em busca de conhecimento nas formas disponíveis ao meu alcance. Minhas entregas visam qualidade e minha maior virtude é o Comprometimento. 
-
-Busco oportunidades que me permitam lidar com novos desafios e crescer profissionalmente por meio da Tecnologia
+Busco oportunidades que me permitam lidar com novos desafios e crescer profissionalmente por meio da Tecnologia e entusiasmo.
 
 - Para mais informações sobre minha atuação profissional, acesse meu perfil no Linkedin na aba **Contact**
 
