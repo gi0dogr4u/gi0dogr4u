@@ -6,32 +6,16 @@
  
 - Esse pedacinho está em português mas é temporário :)
 
-Aopa, chega mais! Sou a Giovanna, fullstack developer com foco em Backend há pouco mais de 2 anos e entusiasta na área de tecnologia, participante ativa da comunidade e eventos que me tragam novos desafios! Nas horas vagas? Professora de programação, leitora e gamer :) 
+Sou Desenvolvedora Fullstack com anos de experiência em diversas empresas e projetos, especializada em Backend e Liderança de Equipes. Minha jornada na área de tecnologia é marcada por um forte comprometimento com a excelência técnica e a gestão eficaz de pessoas. Busco continuamente por desafios que me permitam aplicar e expandir minhas habilidades tanto em desenvolvimento de software quanto em liderança.
 
-Tá mas e aí? Quais as hard skills?
-✔️ Forte domínio com a stack de Python para web, usando frameworks como Django em diversos projetos profissionais. Quer saber um pouco mais sobre eles? Corre na descrição do meu último cargo
-✔️ Experiências sólidas com o uso de Docker em ambientes containerizados e gerenciados por Kubernetes (nesse eu me garanto, viu? Em busca da certificação K8S )
-✔️ Familiaridade com ambientes tanto da Oracle quanto AWS, tendo atuado em ambos no último ano.
-✔️ Diversas implementações realizadas com consumo de API's e scrappers, bem como conhecimento com sistemas de filas usando Celery e servidores de mensageria como RabbitMQ.
-✔️ Sem falar é claro na experiência com banco de dados, tanto objeto-relacional (PostgreSQL) quanto chave-valor (Redis).
-✔️ Recentemente iniciei estudos treinando modelos com Deep Learning e aplicando em projetos pessoais e tenho grande afinidade com a área de Ciência de Dados utilizando Python
+Competências
+• Desenvolvimento de Software: Profunda experiência com Python, Django, FastAPI, Angular, React, Docker, Kubernetes, PostgreSQL, MySQL, Redis, AWS, RabbitMQ e Celery, entre outros.
+• Gestão de Equipes: Habilidade comprovada em liderar e desenvolver equipes de alta performance, com foco em PDI's e treinamentos internos.
+• Metodologias Ágeis: Implementação e treinamento em metodologias ágeis, como Scrum e Kanban.
+• Comunicação: Excelência na comunicação clara e assertiva, fundamental para a gestão de equipes e projetos.
+• Qualidade e Comprometimento: Entregas focadas em qualidade, com um forte compromisso com os objetivos da empresa.
 
-Alémm disso...
-🟢 Tenho experiências sólidas em diversos tipos de sistemas com diferentes paradigmas, indo desde um monolito até o lançamento de um MVP
-🟢 Atuei em estruturações de projeto e importantes decisões técnicas, visando impacto e valor agregado
-🟢 Padrões de design que se encaixam em cada contexto
-🟢 Grande familiaridade e facilidade com metodologias ágeis, em especial o Kanban
-🟢 Acompanhamento e auxílio com devs Juniors para troca de conhecimento, principalmente sobre os sistemas e boas práticas
-
-Como não só de algodão doce são feitas as nuvens, eis algumas das Soft Skills:
-🔵 Afinidade e maturidade com comunicação clara e assertiva 
-🔵 Sempre em busca de conhecimento nas formas disponíveis ao meu alcance
-🔵 Valorizo uma boa e velha troca de Feedbacks visando melhoria contínua não só minha mas de toda a equipe
-🔵 Minhas entregas se baseiam em qualidade e tenho como grande virtude o Comprometimento
-🔵 Traços de liderança e grande paixão por trabalhar com pessoas e levar valor ao cliente
-🔵 Super adaptável com diferentes processos, sistemas e pessoas, sem perder a análise crítica dos cenários
-
-Busco oportunidades que me permitam lidar com novos desafios e crescer profissionalmente por meio da Tecnologia e entusiasmo.
+Fico disponível e sempre aberta à novas oportunidades ou ainda se precisar de ajuda na sua carreira!
 
 - Para mais informações sobre minha atuação profissional, acesse meu perfil no Linkedin na aba **Contact**
 
