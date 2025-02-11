@@ -3,8 +3,6 @@
 ### About me
 
 - Fullstack Developer 🖥️
- 
-- Esse pedacinho está em português mas é temporário :)
 
 I am a Fullstack Developer with years of experience across various companies and projects, specializing in Backend and Team Leadership. My journey in the technology field is marked by a strong commitment to technical excellence and effective people management. I continuously seek challenges that allow me to apply and expand my skills in both software development and leadership.
 
