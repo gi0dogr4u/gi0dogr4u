@@ -6,18 +6,17 @@
  
 - Esse pedacinho está em português mas é temporário :)
 
-Sou Desenvolvedora Fullstack com anos de experiência em diversas empresas e projetos, especializada em Backend e Liderança de Equipes. Minha jornada na área de tecnologia é marcada por um forte comprometimento com a excelência técnica e a gestão eficaz de pessoas. Busco continuamente por desafios que me permitam aplicar e expandir minhas habilidades tanto em desenvolvimento de software quanto em liderança.
+I am a Fullstack Developer with years of experience across various companies and projects, specializing in Backend and Team Leadership. My journey in the technology field is marked by a strong commitment to technical excellence and effective people management. I continuously seek challenges that allow me to apply and expand my skills in both software development and leadership.
 
-Competências
-• Desenvolvimento de Software: Profunda experiência com Python, Django, FastAPI, Angular, React, Docker, Kubernetes, PostgreSQL, MySQL, Redis, AWS, RabbitMQ e Celery, entre outros.
-• Gestão de Equipes: Habilidade comprovada em liderar e desenvolver equipes de alta performance, com foco em PDI's e treinamentos internos.
-• Metodologias Ágeis: Implementação e treinamento em metodologias ágeis, como Scrum e Kanban.
-• Comunicação: Excelência na comunicação clara e assertiva, fundamental para a gestão de equipes e projetos.
-• Qualidade e Comprometimento: Entregas focadas em qualidade, com um forte compromisso com os objetivos da empresa.
+Skills:
 
-Fico disponível e sempre aberta à novas oportunidades ou ainda se precisar de ajuda na sua carreira!
+- Software Development: Extensive experience with Python, Django, FastAPI, Angular, React, Docker, Kubernetes, PostgreSQL, MySQL, Redis, AWS, RabbitMQ, and Celery, among others.
+- Team Management: Proven ability to lead and develop high-performance teams, with a focus on Personal Development Plans (PDPs) and internal training.
+- Agile Methodologies: Implementation and training in Agile methodologies, such as Scrum and Kanban.
+- Communication: Excellence in clear and assertive communication, essential for team and project management.
+- Quality and Commitment: Deliverables focused on quality, with a strong commitment to the company's objectives.
 
-- Para mais informações sobre minha atuação profissional, acesse meu perfil no Linkedin na aba **Contact**
+I am available and always open to new opportunities or to offer assistance with your career!
 
 
 ##
