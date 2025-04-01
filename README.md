@@ -60,6 +60,3 @@ I am available and always open to new opportunities or to offer assistance with 
   <a href="https://www.twitch.tv/gi0dogr4u" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div>
 
-##
-
-![Snake animation](https://github.com/gi0dogr4u/gi0dogr4u/blob/output/github-contribution-grid-snake.svg)
