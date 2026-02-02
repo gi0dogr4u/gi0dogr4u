@@ -17,18 +17,8 @@ If you’d like to exchange ideas or build something new, feel free to reach out
 
 I am available and always open to new opportunities or to offer assistance with your career!
 
-
-##
-<br>
-<div>
-  <a href="https://github.com/gi0dogr4u">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gi0dogr4u&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gi0dogr4u&langs_count=10&layout=compact&theme=radical"/>
-</div>
-
-
 <div style="display: inline_block">
-  <h3> ➡️ Technologies</h3><br>
+  <h3>Technologies</h3><br>
   <img align="center" alt="Linux Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" alt="Python Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="FastApi Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
@@ -57,7 +47,6 @@ I am available and always open to new opportunities or to offer assistance with 
   <a href="mailto:giovannaresende0475@gmail.com" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/giovanna-resende-lima-b018a9201/" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/giokozz" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/zfQ88s87" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.twitch.tv/gi0dokozzz" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div>
 
