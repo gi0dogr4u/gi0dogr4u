@@ -2,17 +2,18 @@
 
 ### About me
 
-- Fullstack Developer 🖥️
+- Founder & Tech Lead | Senior Software Engineer | Mentor & Speaker | Python, React, Cloud & Leadership 🖥️
 
-I am a Fullstack Developer with years of experience across various companies and projects, specializing in Backend and Team Leadership. My journey in the technology field is marked by a strong commitment to technical excellence and effective people management. I continuously seek challenges that allow me to apply and expand my skills in both software development and leadership.
+Senior Software Engineer, founder at @Game Gather and Tech Lead. With over 6 years of experience, I build products, teams, and solutions for companies in Brazil and abroad (US, UK, France, Dubai, etc.). I enjoy solving complex problems and, above all, making them simple to build, use, and scale.
 
-Skills:
+Beyond code, I work with technical leadership, mentoring, content creation, and talks, connecting technology, product, and people. In 2025, I impacted 4,000+ people through talks, classes, and mentoring on architecture, scalability, career growth, and technical leadership, including a talk delivered to more than 2,000 people.
 
-- Software Development: Extensive experience with Python, Django, FastAPI, Angular, React, Docker, Kubernetes, PostgreSQL, MySQL, Redis, AWS, RabbitMQ, and Celery, among others.
-- Team Management: Proven ability to lead and develop high-performance teams, with a focus on Personal Development Plans (PDPs) and internal training.
-- Agile Methodologies: Implementation and training in Agile methodologies, such as Scrum and Kanban.
-- Communication: Excellence in clear and assertive communication, essential for team and project management.
-- Quality and Commitment: Deliverables focused on quality, with a strong commitment to the company's objectives.
+Throughout my career, I’ve led teams, contributed to the launch of more than 10 MVPs, helped build and strengthen tech communities, and supported companies in structuring products, processes, and teams.
+
+As a founder, I bring a practical product and business mindset: validating fast, prioritizing well, and balancing technical excellence with real impact.
+I believe in technology that delivers value and grows alongside the people who build it.
+
+If you’d like to exchange ideas or build something new, feel free to reach out 🙂
 
 I am available and always open to new opportunities or to offer assistance with your career!
 
@@ -55,8 +56,8 @@ I am available and always open to new opportunities or to offer assistance with 
 
   <a href="mailto:giovannaresende0475@gmail.com" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/giovanna-resende-lima-b018a9201/" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/gio_lima.13" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/giokozz" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.gg/zfQ88s87" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.twitch.tv/gi0dogr4u" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://www.twitch.tv/gi0dokozzz" target="_blank"><img target="_blanck" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div>
 
